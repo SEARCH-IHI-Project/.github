@@ -57,6 +57,7 @@ With a consortium of 26 leading institutions, SEARCH aims to create a scalable, 
 - LinkedIn: [SEARCH – Synthetic Healthcare Data Governance Hub](https://www.linkedin.com/company/synthetic-healthcare-data-governance-hub/)
 - X (Twitter): [@IHISEARCH](https://x.com/IHISEARCH)
 - YouTube: [@IHISEARCH](https://www.youtube.com/@IHISEARCH)
+- HuggingFace: [https://huggingface.co/SEARCH-IHI](https://huggingface.co/SEARCH-IHI)
 
 SEARCH invites researchers, healthcare professionals, and industry innovators to partner with us. By joining forces, we can advance the future of healthcare through collaborative, secure, and privacy-preserving data-sharing platforms.
 
