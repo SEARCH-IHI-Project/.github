@@ -2,7 +2,7 @@
 
 > The Next Frontier in Secure, Privacy-Preserving Healthcare Data
 
-SEARCH is an IHI EU project pioneering healthcare innovation through synthetic data and federated learning. This repository is part of the SEARCH project's technical work.
+SEARCH is an IHI EU project pioneering healthcare innovation through synthetic data and federated learning. 
 
 ---
 
